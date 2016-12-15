@@ -1,7 +1,7 @@
 # LitWExtended
 The Gronkh's Life in the Woods bug tracker page.
 
-Here you can post bugs or other unintended behaviour of the Gronkh's Life in the Woods Extended mod pack,
+Here you can post bugs or other unintended behaviour of the Life in the Woods Extended Modpack or the Server Modpack,
 which is aviable here: http://www.technicpack.net/modpack/litw-extended.929330
 
 Just open an issue if you found a bug or something like that, I will take a look at it.
