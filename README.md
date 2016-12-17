@@ -19,3 +19,9 @@ Please make sure the bug you report can be reproduced in a clean install of the 
 what means that you should remove all mods you added to the pack and reset all the configs you
 changed to the defaults I provide. If you are not sure what this means, it's very likely that
 you didn't change anything. If that's the case, you are free to report your issue.
+
+
+
+Support my work and make me happy :)
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BKZ3GFM2QYD7N)
+
