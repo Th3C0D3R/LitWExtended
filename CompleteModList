@@ -40,6 +40,7 @@ Mods available only in client-modpack are marked with a [C]
 [S&C]  Farseek
 [S&C]  FloodLights
 [S&C]  GardenStuff
+[S&C]  Gollum-Core
 [S&C]  GraveStones
 [S&C]  GUILib
 [S&C]  HopperDuctMod
@@ -48,6 +49,7 @@ Mods available only in client-modpack are marked with a [C]
 [S&C]  InventoryTweaks
 [S&C]  IronChest
 [S&C]  itlt 1.7.10-0.0.8
+[S&C]  Jammy-Furniture
 [S&C]  JourneyMap
 [S&C]  KoreSample
 ## [C] LiteLoader [C] ##
@@ -55,6 +57,7 @@ Mods available only in client-modpack are marked with a [C]
 [S&C]  MagicalCrops
 [S&C]  MagicalCropsArmoury
 [S&C]  Mantle
+[S&C]  MCA (Minecraft comes alive)
 [S&C]  mcjtylib-1.8.1
 [S&C]  MineFactoryReloaded
 [S&C]  MineTweaker3
@@ -66,6 +69,7 @@ Mods available only in client-modpack are marked with a [C]
 ## [C] OptiFine [C] ##
 [S&C]  Pam's HarvestCraft
 [S&C]  PlantMegaPack
+[S&C]  Radix-Core
 [S&C]  RailCraft
 [S&C]  RecipeAPI v1.1
 [S&C]  RedstonePasteMod
