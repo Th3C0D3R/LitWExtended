@@ -45,6 +45,7 @@ Mods available only in client-modpack are marked with a [C]
 [S&C]  GUILib
 [S&C]  HopperDuctMod
 [S&C]  HungerOverhaul
+## [C] iChanUtil [C] ##
 [S&C]  Immibis Core
 [S&C]  InventoryTweaks
 [S&C]  IronChest
@@ -61,11 +62,14 @@ Mods available only in client-modpack are marked with a [C]
 [S&C]  mcjtylib-1.8.1
 [S&C]  MineFactoryReloaded
 [S&C]  MineTweaker3
+## [C]  Morph [C] ##
+## [C]  MouseTweaks [C] ##
 [S&C]  MSC2
 [S&C]  Mystcraft
 [S&C]  NEIIntegration
 [S&C]  NetherOres
 [S&C]  NotEnoughItems (NEI)
+## [C] OpenBlock (with its Lib) [C] ##
 ## [C] OptiFine [C] ##
 [S&C]  Pam's HarvestCraft
 [S&C]  PlantMegaPack
